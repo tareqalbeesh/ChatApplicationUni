@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="d1">Log In</string>
+    <string name="d2">Creat Account</string>
+    <string name="d3">.. Hello .. </string>
+    <string name="d4">We Welcome You to Our Humble Application</string>
+    <string name="d5">UserName : </string>
+    <string name="d6">Password : </string>
+    <string name="d7">Creat New Account : </string>
+    <string name="d8">Email : </string>
+    <string name="d9">Creat</string>
+    <string name="d10">Male</string>
+    <string name="d11">Female</string>
+    <string name="d12">Age :</string>
+    <string name="d13">Country :</string>
+    <string name="d14">Delete Registered</string>
+    <string name="d15">Option :</string>
+    <string name="d16">You Really Want to Exit The Application..</string>
+    <string name="d17">Remamber me</string>
+    <string name="d18">Log Out</string>
+
+
+</resources>

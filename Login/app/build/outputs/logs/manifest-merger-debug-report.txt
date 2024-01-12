@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fcb2408b05e14fa1165bf80b3c7769f5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b8019b91cd654b37b3ae0c09646fb87a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\791190894f672f54977a28f573118347\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0be2c2e02e598c8e0785cdbc1dee4a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b9a477557ce6e9c96042fbe0d4b772d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9ee9a8a2041fcd86d67f0467cc7e2af4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64127ead9d722254c3c1626a92c75b59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\12d88dc2466e598fce974a8640e5cf44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa85487075c557d6376db0d0843f8cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ffefb9bf619f15cd08ac0bfa521c19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cda21ec176232d1c5e02887a67562296\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f63d09ad060797c49fa7057803d67bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\200797c7db339e684acf2ce6885ce9b7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:4:22-78
+application
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fcb2408b05e14fa1165bf80b3c7769f5\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fcb2408b05e14fa1165bf80b3c7769f5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\791190894f672f54977a28f573118347\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\791190894f672f54977a28f573118347\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.obada.login.MainActivity
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.obada.login.Creat
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:19:19-40
+activity#com.example.obada.login.send_Rom
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.example.obada.login.list
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:21:9-42
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:21:19-39
+activity#com.example.obada.login.Alldata
+ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml:22:19-42
+uses-sdk
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fcb2408b05e14fa1165bf80b3c7769f5\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fcb2408b05e14fa1165bf80b3c7769f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b8019b91cd654b37b3ae0c09646fb87a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b8019b91cd654b37b3ae0c09646fb87a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\791190894f672f54977a28f573118347\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\791190894f672f54977a28f573118347\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0be2c2e02e598c8e0785cdbc1dee4a0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0be2c2e02e598c8e0785cdbc1dee4a0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b9a477557ce6e9c96042fbe0d4b772d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b9a477557ce6e9c96042fbe0d4b772d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9ee9a8a2041fcd86d67f0467cc7e2af4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9ee9a8a2041fcd86d67f0467cc7e2af4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64127ead9d722254c3c1626a92c75b59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64127ead9d722254c3c1626a92c75b59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\12d88dc2466e598fce974a8640e5cf44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\12d88dc2466e598fce974a8640e5cf44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa85487075c557d6376db0d0843f8cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa85487075c557d6376db0d0843f8cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ffefb9bf619f15cd08ac0bfa521c19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ffefb9bf619f15cd08ac0bfa521c19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cda21ec176232d1c5e02887a67562296\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cda21ec176232d1c5e02887a67562296\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f63d09ad060797c49fa7057803d67bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f63d09ad060797c49fa7057803d67bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\200797c7db339e684acf2ce6885ce9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\200797c7db339e684acf2ce6885ce9b7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Desktop\Login\app\src\main\AndroidManifest.xml

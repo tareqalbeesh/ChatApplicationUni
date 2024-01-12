@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل الدخول</string>
+    <string name="d1">تسجيل الدخول</string>
+    <string name="d2">إنشاء حساب</string>
+    <string name="d3">.. مرحباً .. </string>
+    <string name="d4">أهلاً .. نحن نرحب بكم بتطبيقنا المتواضع</string>
+    <string name="d5">اسم المستخدم : </string>
+    <string name="d6">كلمة المرور : </string>
+    <string name="d7">إنشاء حساب جديد : </string>
+    <string name="d8">حساب المستخدم : </string>
+    <string name="d9">إنشاء </string>
+    <string name="d10">ذكر </string>
+    <string name="d11">انثى </string>
+    <string name="d12">العمر :</string>
+    <string name="d13">البلد :</string>
+    <string name="d14"> حـذف المشتركين </string>
+    <string name="d15">الخيارات :</string>
+    <string name="d16">هل تريد الخروج من التطبيق حقاً..</string>
+    <string name="d17">تـذكرنـي</string>
+    <string name="d18">تسجيل الخروج</string>
+
+</resources>
